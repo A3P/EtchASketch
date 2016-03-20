@@ -1,0 +1,21 @@
+.line {
+	border: 1px solid black;
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+
+}
+
+.color {
+	background-color: black;
+}
+
+#container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+#reset {
+	display: block;
+	margin: 10px auto;
+}
